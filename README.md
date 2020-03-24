@@ -50,6 +50,7 @@ For further development you can always take a look at the packet list from manul
 ## What needs to be implemented sooner or later (ToDo)
 - Configurations
 - A total database revamp (each item having a unique id, type and equipped-on ID, configs are basically impossible atm)
+- Clan system
 - website <-> spacemap communication
 - NPC flee on X% HP (15%?)
 - NPC stop interest after not been shot after X seconds (120?)
